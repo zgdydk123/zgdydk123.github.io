@@ -1,27 +1,24 @@
 ---
 permalink: /
-title: "👋 Hello here, I'm Guodong"
+title: "👋 Hello, I'm Guodong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨‍🎓 I'm a final year graduate student in Vanderbilt University.
+👨‍🎓 I am a final-year graduate student at **Vanderbilt University**.  
 
-🔬 My research interests are in nanophotonics devices, electromagnetics and mulitphyisics simulation technology.
+🔬 My research interests include **nanophotonic devices**, **electromagnetics**, and **multiphysics simulation technologies**.  
 
-📚 I'm currently working on tailoring the thermal emission with nanoscale structures.
+📚 Currently, I focus on **tailoring thermal emission with nanoscale structures**.  
 
-Recent news
-======
-[08/2025] Oral talk in SPIE 2025.
+---
 
-[05/2025] C.F.Chen best paper awards. 
+## Recent News
 
-[08/2024] Oral talk in SPIE 2024.
-
-[08/2023] Best poster award in SPIE 2023.
-
-[08/2021] Move to Vanderbilt University.
-
+- **[08/2025]** Oral presentation at *SPIE 2025*.  
+- **[05/2025]** Awarded the *C. F. Chen Best Paper Award*.  
+- **[08/2024]** Oral presentation at *SPIE 2024*.  
+- **[08/2023]** Received *Best Poster Award* at *SPIE 2023*.  
+- **[08/2021]** Joined Vanderbilt University.  
