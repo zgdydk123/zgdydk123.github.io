@@ -13,7 +13,7 @@ title                    : "Guodong's Homepages"
 title_separator          : "-"
 name                     : &name "Guodong Zhu"
 description              : &description "personal description"
-url                      : https://zgdydk123.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://zgdydk123.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://zgdydk123.github.io/"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Exploring light–matter interactions at the nanoscale"
   location         : "Nashivlle, Tennessee"
   employer         : "Vanderbilt University"
-  uri              : "https://zgdydk123.github.io/"
+  uri              : "https://zgdydk123.github.io"
   email            : "guodong.zhu@vanderbilt.edu" 
 
   # Academic websites
