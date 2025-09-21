@@ -16,7 +16,12 @@ redirect_from:
 Recent news
 ======
 [08/2025] Oral talk in SPIE 2025.
+
 [05/2025] C.F.Chen best paper awards. 
+
 [08/2024] Oral talk in SPIE 2024.
+
 [08/2023] Best poster award in SPIE 2023.
+
 [08/2021] Move to Vanderbilt University.
+
