@@ -2,8 +2,7 @@
 title: "Artificial Intelligence-Augmented Tracking and Label-Free Characterization of Milk-Derived EVs"
 excerpt: "A complete nanotweezer platform that enables stable trapping, AI-assisted automated
 characterization, and label-free imaging of mEVs using interferometric scattering
-microscopy (ISCAT).<br/><img src='/images/number_3.gif'>" alt="AI-assisted automated
-characterization" width="500">
+microscopy (ISCAT).<br/><img src='/images/number_3.gif'>"
 collection: portfolio
 ---
 Milk-derived extracellular vesicles (mEVs) are actively investigated for their
