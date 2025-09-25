@@ -1,6 +1,6 @@
 ---
 title: "Multiphysics simulator for large scale memories and RF circuits"
-excerpt: "A multiphysics simulator based FEM to simulated physical process in memories and RF circuits. Diffusion equation, Poisson equation, thermal conduction equation, and Maxwell equations were solved.<br/><img src='/images/Multiphysics_simulator_1.png'>"  alt="Multiphysics simulator " width="500">
+excerpt: "A multiphysics simulator based FEM to simulated physical process in memories and RF circuits. Diffusion equation, Poisson equation, thermal conduction equation, and Maxwell equations were solved.<br/><img src='/images/number_1.png'>"
 collection: portfolio
 ---
 
