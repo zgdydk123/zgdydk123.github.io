@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multiphysics simulator for large scale memories and RF circuits"
+excerpt: "a multiphysics simulator based FEM to simulated physical process in memories and RF circuits. Diffusion equation, Poisson equation, thermal conduction equation, and Maxwell equations were solved.<br/><img src='/images/multiphysics_simulator.png'>"
 collection: portfolio
 ---
 
