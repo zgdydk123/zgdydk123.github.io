@@ -17,11 +17,11 @@ main:
   - title: "CV"
     url: /files/Guodong_Zhu_CV.pdf
     
-  - title: "Talks"
-    url: /talks/    
+  - title: "Life"
+    url: /Life/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
