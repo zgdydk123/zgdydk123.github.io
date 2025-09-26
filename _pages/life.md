@@ -1,11 +1,11 @@
 ---
-layout: collection
+layout: archive
 title: "Life"
 permalink: /life/
-collection: life
-entries_layout: list   # or "grid"
+author_profile: true
 ---
 
-{%- comment -%}
-No body needed; the "collection" layout will list items in _life/
-{%- endcomment -%}
+{% include base_path %}
+{% for post in site.life reversed %}
+  {% include archive-single.html %}
+{% endfor %}
