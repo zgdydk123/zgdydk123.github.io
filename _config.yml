@@ -231,7 +231,7 @@ collections:
     permalink: /:collection/:path/
   life:
     output: true
-    permalink: /:collection/:path/
+    permalink: /life/:path/
 
 
 
