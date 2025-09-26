@@ -231,7 +231,7 @@ collections:
     permalink: /:collection/:path/
   life:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/
 
 
 
@@ -298,6 +298,7 @@ defaults:
       layout: life
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
