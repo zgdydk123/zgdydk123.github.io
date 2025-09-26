@@ -1,6 +1,5 @@
 ---
-title: "First entry"
-date: 2025-09-01
+title: "Soccer"
 ---
-
-This is my first life post.
+![At San Jose](/images/soccer_1.png)
+![At Atlanta](/images/soccer_2.jpg)
