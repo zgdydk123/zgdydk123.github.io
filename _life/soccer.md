@@ -1,8 +1,11 @@
 ---
-title: "Multiphysics simulator for large scale memories and RF circuits"
-excerpt: "A multiphysics simulator based FEM to simulated physical process in memories and RF circuits. Diffusion equation, Poisson equation, thermal conduction equation, and Maxwell equations were solved.<br/><img src='/images/number_1.png'>"
-collection: life
+layout: archive
+title: "Life"
+permalink: /life/
+author_profile: true
 ---
 
-A finite-element method-based parallel computing simulator for multiphysics effects in resistive random access memory (RRAM) array, which is suitable for supercomputer platforms even with thousands of cores, is developed to simulate oxygen vacancy migration, current transport, and thermal conduction. Exponentially fit flux Galerkin method is introduced to improve algorithm convergence when solving the 3-D oxygen vacancy drift-diffusion equation. The accuracy of our algorithm is validatedby comparison with commercial software. Scalability of our parallel algorithm is also investigated. The simulation results for the high-density integration RRAM array indicate that the heat generated during the writing process can result in high temperature, and lead to severe reliability problem. Even the RRAM cells without bias voltage applied can be transferred from low-resistance state to high-resistance state unintentionally, and lose their stored information. Increasing the feature size or equivalently decreasing the integration density lowers the power density, hence improves reliability performance. Large electrode thickness with Dirichlet boundary applied on their side surfaces can drain out heat
-faster and enhance reliability of RRAM array.
+{% include base_path %}
+{% for post in site.life reversed %}
+  {% include archive-single.html %}
+{% endfor %}
