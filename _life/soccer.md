@@ -1,4 +1,7 @@
 ---
-title: "Soccer"
-excerpt: "At San Jose <br/><img src='/images/soccer_1.png'>"
+title: A small life update
+date: 2025-09-25
+# optional:
+excerpt: "What I’ve been up to"
 ---
+Your content here…
