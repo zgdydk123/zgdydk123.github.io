@@ -229,6 +229,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Life:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
@@ -286,7 +290,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _life
+  - scope:
+      path: ""
+      type: life
+    values:
+      layout: life
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
