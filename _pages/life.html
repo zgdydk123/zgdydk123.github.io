@@ -7,11 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign posts = site.life | sort: "date" | reverse %}
-{% if posts and posts.size > 0 %}
-  {% for post in posts %}
-    {% include archive-single.html type=post %}
-  {% endfor %}
-{% else %}
-  <p>No life posts yet. Add files in <code>_life/</code> with front matter.</p>
-{% endif %}
+
+{% for post in site.life %}
+  {% include archive-single.html %}
+{% endfor %}
