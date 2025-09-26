@@ -1,11 +1,6 @@
 ---
-layout: archive
-title: "Life"
-permalink: /life/
-author_profile: true
+title: "First entry"
+date: 2025-09-01
 ---
 
-{% include base_path %}
-{% for post in site.life reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+This is my first life post.
